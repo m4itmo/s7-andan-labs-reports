@@ -1,0 +1,22 @@
+{
+  "dataset": {
+    "name": "UCSD Book Graph / Goodreads — Comics & Graphic",
+    "description_url": "https://mcauleylab.ucsd.edu/public_datasets/gdrive/goodreads/UCSD%20Book%20Graph.html",
+    "accessed_at": "2026-10-19",
+    "raw_data_policy": "Source files are downloaded locally into data/raw/ and are intentionally excluded from Git."
+  },
+  "files": {
+    "interactions": {
+      "filename": "goodreads_interactions_comics_graphic.json.gz",
+      "url": "https://mcauleylab.ucsd.edu/public_datasets/gdrive/goodreads/byGenre/goodreads_interactions_comics_graphic.json.gz",
+      "size_bytes": 387419261,
+      "sha256": "b55fbe66c2c802cefad5051808724d5074e342d6a4004309595a972702a62f4d"
+    },
+    "books": {
+      "filename": "goodreads_books_comics_graphic.json.gz",
+      "url": "https://mcauleylab.ucsd.edu/public_datasets/gdrive/goodreads/byGenre/goodreads_books_comics_graphic.json.gz",
+      "size_bytes": 68740716,
+      "sha256": "f55217fa4aa6f615a5a22ffba0e2bba8706f650cff49af18926311d7afced686"
+    }
+  }
+}
